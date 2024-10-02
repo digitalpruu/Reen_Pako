@@ -14,7 +14,7 @@ html{
 .nav-container{
     width: 100%;
     height: auto;
-    background: green;
+    background: rgba(0, 128, 0, 0.707);
     nav{
         .logo-nav{
             display: flex;
@@ -199,7 +199,7 @@ main{
 
 footer{
     padding: 0 10px;
-    background: linear-gradient(207.8deg, green 16.69%, #77dd77 100%);
+    background: linear-gradient(207.8deg, rgba(0, 128, 0, 0.758) 16.69%, #77dd777d 100%);
     display: flex;
     flex-direction: column;
     align-items: center;

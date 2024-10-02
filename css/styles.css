@@ -16,7 +16,7 @@ html {
 .nav-container {
   width: 100%;
   height: auto;
-  background: green;
+  background: rgba(0, 128, 0, 0.707);
 }
 .nav-container nav .logo-nav {
   display: flex;
@@ -182,7 +182,7 @@ main .contact .contact-title a button:hover {
 
 footer {
   padding: 0 10px;
-  background: linear-gradient(207.8deg, green 16.69%, #77dd77 100%);
+  background: linear-gradient(207.8deg, rgba(0, 128, 0, 0.758) 16.69%, rgba(119, 221, 119, 0.4901960784) 100%);
   display: flex;
   flex-direction: column;
   align-items: center;
